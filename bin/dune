@@ -1,0 +1,4 @@
+(executable
+ (public_name bruijn)
+ (name main)
+ (libraries bruijn))
